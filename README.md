@@ -2,6 +2,6 @@
 
 Мои выполненые практические задания по вёрстке сайтов. Онлайн курс от **Glo-academy.org**
   
-[Урок 9](https://favorituser.github.io/practic_work_1/ "Описание") - Верстка при помощи bootstrap. 
+Мой первый свёрстанный сайт на [html+css](https://favorituser.github.io/practic_work_1/ "html+css") - Вёрстка при помощи bootstrap. 
 
 
