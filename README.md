@@ -4,11 +4,7 @@
   
 1. Мой первый свёрстанный сайт на HTML+CSS, вёрстка на bootstrap >>**[Мой первый сайт](https://favorituser.github.io/practic_work_1/ "html+css")** 
 2. Мой второй сайт свёрстанный на HTML+CSS, вёрстка на bootstrap >>**[Мой второй сайт](https://favorituser.github.io/practic_work_2/ "Мой второй сайт")**
-   >Урок 1 сверстали шапку сайта
+   <details>
+  Урок 1 сверстали шапку сайта
 
-
-
-<details>
-<script src="https://gist.github.com/nicolasalarconrapela/91d36921ab168401f88050929aeab1be.js">
-</script>
-<details/>
+   <details/>
