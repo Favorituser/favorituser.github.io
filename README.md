@@ -7,4 +7,4 @@
    <details>
   Урок 1 сверстали шапку сайта
 
-   <details/>
+   </details>
